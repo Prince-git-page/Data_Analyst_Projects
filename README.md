@@ -33,4 +33,7 @@ root of the mean of square errors
  -  Encoded the categorical variables to numeric values
  -  Calculated the RMSE (Root Mean Square Error) of the model.
 
+# Screenshots
 
+[Screenshot 1](https://github.com/Prince-git-page/Data_Analyst_Projects/blob/main/Screenshot%201.png)
+[Screenshot 2](
