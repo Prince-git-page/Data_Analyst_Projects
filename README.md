@@ -35,5 +35,5 @@ root of the mean of square errors
 
 # Screenshots
 
-[Screenshot 1](https://github.com/Prince-git-page/Data_Analyst_Projects/blob/main/Screenshot%201.png)
+![Screenshot 1](https://github.com/Prince-git-page/Data_Analyst_Projects/blob/main/Screenshot%201.png)
 [Screenshot 2](
