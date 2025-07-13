@@ -33,3 +33,5 @@ root of the mean of square errors
  -  Identified which predictive problem is needed
  -  Encoded the categorical variables to numeric values
  -  Calculated the RMSE (Root Mean Square Error) of the model.
+
+
